@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Esta pequeña aplicación está desarrollada en Flask y permite la ejecución de un comando de sistema a través de la web y que se muestre la salida del comando.
+Esta pequeña aplicación está desarrollada en Flask, permite la ejecución de un comando de sistema a través de la web y que se muestre la salida del comando.
 
 La aplicación la ejecuta un usuario con permisos limitados y el comando de bash necesitará permisos de sudo.
 
